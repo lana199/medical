@@ -1,8 +1,8 @@
 
-# FullCalendar Core Package
+# FullCalendar Moment Plugin
 
-Provides core functionality, including the Calendar class
+A connector to the MomentJS date library
 
-[View the docs &raquo;](https://fullcalendar.io/docs/initialize-es6)
+[View the docs &raquo;](https://fullcalendar.io/docs/moment-plugins)
 
 This package was created from the [FullCalendar monorepo &raquo;](https://github.com/fullcalendar/fullcalendar)
